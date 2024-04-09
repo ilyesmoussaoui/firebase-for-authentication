@@ -1,0 +1,126 @@
+[
+    {
+        "merged": "com.ilyes.firebaseauth.app-debug-96:/drawable_user.xml.flat",
+        "source": "com.ilyes.firebaseauth.app-main-98:/drawable/user.xml"
+    },
+    {
+        "merged": "com.ilyes.firebaseauth.app-debug-96:/xml_data_extraction_rules.xml.flat",
+        "source": "com.ilyes.firebaseauth.app-main-98:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.ilyes.firebaseauth.app-debug-96:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.ilyes.firebaseauth.app-main-98:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.ilyes.firebaseauth.app-debug-96:/drawable_twitter.xml.flat",
+        "source": "com.ilyes.firebaseauth.app-main-98:/drawable/twitter.xml"
+    },
+    {
+        "merged": "com.ilyes.firebaseauth.app-debug-96:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.ilyes.firebaseauth.app-main-98:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.ilyes.firebaseauth.app-debug-96:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.ilyes.firebaseauth.app-main-98:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.ilyes.firebaseauth.app-debug-96:/drawable_error.xml.flat",
+        "source": "com.ilyes.firebaseauth.app-main-98:/drawable/error.xml"
+    },
+    {
+        "merged": "com.ilyes.firebaseauth.app-debug-96:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.ilyes.firebaseauth.app-main-98:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.ilyes.firebaseauth.app-debug-96:/drawable_back_icon.xml.flat",
+        "source": "com.ilyes.firebaseauth.app-main-98:/drawable/back_icon.xml"
+    },
+    {
+        "merged": "com.ilyes.firebaseauth.app-debug-96:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.ilyes.firebaseauth.app-main-98:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.ilyes.firebaseauth.app-debug-96:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.ilyes.firebaseauth.app-main-98:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.ilyes.firebaseauth.app-debug-96:/drawable_location_point.xml.flat",
+        "source": "com.ilyes.firebaseauth.app-main-98:/drawable/location_point.xml"
+    },
+    {
+        "merged": "com.ilyes.firebaseauth.app-debug-96:/drawable_splash_2.png.flat",
+        "source": "com.ilyes.firebaseauth.app-main-98:/drawable/splash_2.png"
+    },
+    {
+        "merged": "com.ilyes.firebaseauth.app-debug-96:/drawable_google_icon.xml.flat",
+        "source": "com.ilyes.firebaseauth.app-main-98:/drawable/google_icon.xml"
+    },
+    {
+        "merged": "com.ilyes.firebaseauth.app-debug-96:/drawable_splash_3.png.flat",
+        "source": "com.ilyes.firebaseauth.app-main-98:/drawable/splash_3.png"
+    },
+    {
+        "merged": "com.ilyes.firebaseauth.app-debug-96:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.ilyes.firebaseauth.app-main-98:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.ilyes.firebaseauth.app-debug-96:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.ilyes.firebaseauth.app-main-98:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.ilyes.firebaseauth.app-debug-96:/drawable_success.png.flat",
+        "source": "com.ilyes.firebaseauth.app-main-98:/drawable/success.png"
+    },
+    {
+        "merged": "com.ilyes.firebaseauth.app-debug-96:/drawable_splash_1.png.flat",
+        "source": "com.ilyes.firebaseauth.app-main-98:/drawable/splash_1.png"
+    },
+    {
+        "merged": "com.ilyes.firebaseauth.app-debug-96:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.ilyes.firebaseauth.app-main-98:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.ilyes.firebaseauth.app-debug-96:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.ilyes.firebaseauth.app-main-98:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.ilyes.firebaseauth.app-debug-96:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.ilyes.firebaseauth.app-main-98:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.ilyes.firebaseauth.app-debug-96:/drawable_logo.png.flat",
+        "source": "com.ilyes.firebaseauth.app-main-98:/drawable/logo.png"
+    },
+    {
+        "merged": "com.ilyes.firebaseauth.app-debug-96:/drawable_facebook_2.xml.flat",
+        "source": "com.ilyes.firebaseauth.app-main-98:/drawable/facebook_2.xml"
+    },
+    {
+        "merged": "com.ilyes.firebaseauth.app-debug-96:/drawable_mail.xml.flat",
+        "source": "com.ilyes.firebaseauth.app-main-98:/drawable/mail.xml"
+    },
+    {
+        "merged": "com.ilyes.firebaseauth.app-debug-96:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.ilyes.firebaseauth.app-main-98:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.ilyes.firebaseauth.app-debug-96:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.ilyes.firebaseauth.app-main-98:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.ilyes.firebaseauth.app-debug-96:/xml_backup_rules.xml.flat",
+        "source": "com.ilyes.firebaseauth.app-main-98:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.ilyes.firebaseauth.app-debug-96:/drawable_phone.xml.flat",
+        "source": "com.ilyes.firebaseauth.app-main-98:/drawable/phone.xml"
+    },
+    {
+        "merged": "com.ilyes.firebaseauth.app-debug-96:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.ilyes.firebaseauth.app-main-98:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.ilyes.firebaseauth.app-debug-96:/drawable_lock.xml.flat",
+        "source": "com.ilyes.firebaseauth.app-main-98:/drawable/lock.xml"
+    }
+]

@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.ilyes.firebaseauth.app-mergeDebugResources-94:/values-v31/values-v31.xml",
+            "map": [
+                {
+                    "source": "/Users/ilyes/.gradle/caches/transforms-3/a07b3ff5aa45791c389b1ec8f1e981c7/transformed/core-splashscreen-1.1.0-alpha02/res/values-v31/values-v31.xml",
+                    "from": {
+                        "startLines": "2,9",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,473",
+                        "endLines": "8,13",
+                        "endColumns": "12,12",
+                        "endOffsets": "468,697"
+                    }
+                }
+            ]
+        }
+    ]
+}

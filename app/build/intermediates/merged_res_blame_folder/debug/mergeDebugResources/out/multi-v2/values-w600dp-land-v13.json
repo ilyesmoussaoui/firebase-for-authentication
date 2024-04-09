@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.ilyes.firebaseauth.app-mergeDebugResources-94:/values-w600dp-land-v13/values-w600dp-land-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/ilyes/.gradle/caches/transforms-3/09cdb114ee4aba0448f6c386252b3dbc/transformed/material-1.4.0-beta01/res/values-w600dp-land-v13/values-w600dp-land-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "54",
+                        "endOffsets": "105"
+                    }
+                }
+            ]
+        }
+    ]
+}

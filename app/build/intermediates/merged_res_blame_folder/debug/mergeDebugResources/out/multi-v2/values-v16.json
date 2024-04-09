@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.ilyes.firebaseauth.app-mergeDebugResources-94:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/Users/ilyes/.gradle/caches/transforms-3/e0ff0d18a66dad1ef4b59560629a92fd/transformed/core-1.12.0/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "/Users/ilyes/.gradle/caches/transforms-3/7b6c0bb036f52ff347fad841cbd88065/transformed/appcompat-1.6.1/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                }
+            ]
+        }
+    ]
+}
